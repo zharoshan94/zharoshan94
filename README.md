@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Understanding heatwave drivers in India**
 
-- 👯 I’m looking to collaborate on **Climate Variability and Climate Chnage, Land-Atmosphere Interaction, Large-Scale Dynamics**
+- 👯 I’m looking to collaborate on **Climate Variability and Climate Change, Land-Atmosphere Interaction, Large-Scale Dynamics**
 
 - 📫 How to reach me **zharoshan94@gmail.com**
 
