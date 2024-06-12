@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Roshan Jha</h1>
 <h3 align="center">PhD Student at IDP in Climate Studies</h3>
 
-- 🔭 I’m currently working on **Temperature Extremes in India**
+- 🔭 I’m currently working on **Understanding heatwave drivers in India**
 
-- 👯 I’m looking to collaborate on **Investigation on Heat Stress, Modelling Irrigation in Climate model**
+- 👯 I’m looking to collaborate on **Climate Variability and Climate Chnage, Land-Atmosphere Interaction, Large-Scale Dynamics**
 
 - 📫 How to reach me **zharoshan94@gmail.com**
 
