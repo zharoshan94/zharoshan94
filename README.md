@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Roshan Jha</h1>
 <h3 align="center">PhD Student at IDP in Climate Studies, IIT Bombay, India</h3>
 
-- 🔭 I’m currently working on **Understanding heatwave drivers in India**
+- 🔭 I’m currently working on **Global Temperature Extremes**
 
 - 👯 I’m looking to collaborate on **Climate Variability and Climate Change, Climate change Risk, Land-Atmosphere Interaction, Large-Scale Dynamics**
 
-- 📫 How to reach me **zharoshan94@gmail.com/roshan.jha@iitb.ac.in**
+- 📫 How to reach me **zharoshan94@gmail.com/rj90@st-andrews.ac.uk**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
