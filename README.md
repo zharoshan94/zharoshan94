@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Roshan Jha</h1>
-<h3 align="center">PhD Student at IDP in Climate Studies, IIT Bombay, India</h3>
+<h3 align="center">Research Fellow at School of Earth and Environmental Sciences, University of St Andrews, UK</h3>
 
 - 🔭 I’m currently working on **Global Temperature Extremes**
 
