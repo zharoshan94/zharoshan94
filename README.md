@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Roshan Jha</h1>
 <h3 align="center">Research Fellow at School of Earth and Environmental Sciences, University of St Andrews, UK</h3>
 
-- 🔭 I’m currently working on **Global Temperature Extremes**
+- 🔭 I’m currently working on **Climate Extremes**
 
 - 👯 I’m looking to collaborate on **Climate Variability and Climate Change, Climate change Risk, Land-Atmosphere Interaction, Large-Scale Dynamics**
 
