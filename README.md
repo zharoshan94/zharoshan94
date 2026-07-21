@@ -2,7 +2,6 @@
 <h3 align="center">Research Fellow at School of Earth and Environmental Sciences, University of St Andrews, UK</h3>
 
 - 🔭 I’m work on **understanding hydroclimate extremes response to climate change**
-**
 
 - 👯 I’m looking to collaborate on **Climate Variability and Climate Change, Climate change Risk, Land-Atmosphere Interaction, Large-Scale Atmospheric Dynamics**
 
